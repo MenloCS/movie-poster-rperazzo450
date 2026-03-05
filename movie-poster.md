@@ -68,18 +68,18 @@ What do you definitely NOT want? (This helps you evaluate AI outputs critically.
 Open Adobe Firefly. Generate images based on your creative brief, but remember: you're exploring possibilities, not looking for a final answer.
 
 **Attempt 1:**  
-- **My prompt:**  
+- **Make a movie poster about the show Breaking Bad. I want it to convey a feeling of fear and mystery. With the main two colors being black and green with hints of khaki brown. I want Walter and Jesse in it and the main object to be the broken plate water put back toghether in the first season**  
 
-- **What worked:**  
-- **What didn't work:**  
-- **What I'll change for next attempt:**  
+- **I liked the mysterious theme:**  
+- **the plate has a weird skull on it:**  
+- **I will fix the plate and make Jesse actually look like Jesse.:**  
 
 **Attempt 2:**  
-- **My prompt:**  
+- **Change the plate in the middle. I want the dagger that was missing out of it and I want itto easily tell that the guy is Jesse also make it more of a hint of later seasons:**  
 
-- **What worked:**  
-- **What didn't work:**  
-- **What I'll change for next attempt:**  
+- **Jesse has a face now:**  
+- **The plate looks weird and really fake:**  
+- **I am going to try and simplify the poster:**  
 
 ---
 
