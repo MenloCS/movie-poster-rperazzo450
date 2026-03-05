@@ -89,19 +89,19 @@ Open Adobe Firefly. Generate images based on your creative brief, but remember: 
 Keep refining. Try at least two more meaningfully different directions.
 
 **Attempt 3:**  
-- **My prompt:**  
+- **Change it up make it so it still uses the same colors but make it walter white holding the plate with the piece missing and make it an up close of only half of his face visible:**  
 
-- **What worked:**  
-- **What didn't work:**  
-- **What I'll change for next attempt:**  
+- **The half face part worked:**  
+- **I don't like how the plate works:**  
+- **I am going to change the plate into a graduated beaker:**  
 
 **Attempt 4:**  
-- **My prompt:**  
+- **I want Walter white to hold a graduated beaker instead of the plate. But some green bubbly liquid in the beaker. Make sure the man looks like Walter White and I want the only text on the poster to be "Breaking Bad.":**  
 
-- **What worked:**  
-- **What didn't work:**  
+- **Everything worked it looks great:**  
+- **Maybe a little to much deadspace at the bottom:**  
 
-**Final AI Image Selected:** (Which attempt? Why?)  
+**Attempt 4 because it looks great and shows the hints at the plot I want it to show:** (Which attempt? Why?)  
 
 ---
 
