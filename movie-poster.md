@@ -29,36 +29,36 @@ At each step, save and commit your work in GitHub Desktop.
 
 Before you open any AI tools, plan your vision. This is your anchor—return to it after every AI generation.
 
-**Your Movie Choice:**  
-- **Movie Title:**  
-- **Why I chose this movie:**  
+**Breaking Bad:**  
+- **Breaking Bad:**  
+- **I enjoy the plot of the show and I think overall it is extremely entertaining and a well thought out show.:**  
 
-**Core Emotion:**  
-What ONE feeling should a viewer get from your poster? (Examples: wonder, fear, joy, excitement, mystery, tension, nostalgia)  
+**Fear and Mystery:**  
+I want the viewer to get a feeling of mystery and fear  
 - **Core emotion:**  
 
-**Essential Visual Element:**  
+**It must have the plate from the first season in it:**  
 What ONE image, object, or visual MUST appear on your poster?  
-- **Essential element:**  
-- **Why this element:**  
+- **The plate:**  
+- **it is when I first figured out that the show I am watching is going to be amazing:**  
 
 **What NOT to Include:**  
 What do you definitely NOT want? (This helps you evaluate AI outputs critically.)  
-- **Avoid:**  
+- **Avoid any picture of Skyler White:**  
 
 **Color Palette:**  
-- **Dominant color(s):**  
-- **Accent color(s):**  
-- **Overall mood:** (warm/cool/muted/vibrant/dark/bright)  
+- **Green and Black):**  
+- **Brown:**  
+- **Mystery:** (warm/cool/muted/vibrant/dark/bright)  
 
 **Composition:**  
 - [ ] Close-up (face/detail)  
 - [ ] Wide shot (landscape/setting)  
-- [ ] Medium shot (full figure)  
+- [X] Medium shot (full figure)  
 - [ ] Object/symbol centered  
 - [ ] Character collage  
 
-- **Focal point description:**  
+- **I want a focus on the plate in the background to show the first amazing piece of writing in the show**  
 
 ---
 
